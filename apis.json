@@ -1,0 +1,60 @@
+{
+    "name": "Verizon | VDC",
+    "description": "Explore Verizon's full selection small and medium business solutions including FiOS, high speed internet, phone, and TV service.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/668-verizon-|-vdc--.jpg",
+    "tags": [
+        "gps",
+        "have api",
+        "isp",
+        "locations",
+        "networks",
+        "telecommunications"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/verizon--vdc--\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Verizon | VDC",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/668-verizon-|-vdc--.jpg",
+            "humanURL": "http:\/\/developer.verizon.com\/content\/vdc\/en\/verizon-tools-apis\/verizon_apis\/navbuilder-inside-sdk\/verizon-toolsandapis-NBI-tech-resources\/verizon-nbi-vznavigator-api.html",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/verizon--vdc---postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/developer.verizon.com\/content\/vdc\/en\/verizon-tools-apis\/verizon_apis\/navbuilder-inside-sdk\/verizon-toolsandapis-NBI-tech-resources\/verizon-nbi-vznavigator-api.html"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/verizon"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/verizon"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Verizon"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/VerizonDev"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/verizon"
+        }
+    ]
+}
